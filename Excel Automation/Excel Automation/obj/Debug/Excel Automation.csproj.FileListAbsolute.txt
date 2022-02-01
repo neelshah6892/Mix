@@ -1,0 +1,6 @@
+D:\Visual Studio\Excel Automation\Excel Automation\bin\Debug\Excel Automation.exe.config
+D:\Visual Studio\Excel Automation\Excel Automation\obj\Debug\Excel Automation.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Excel Automation\Excel Automation\bin\Debug\Excel Automation.exe
+D:\Visual Studio\Excel Automation\Excel Automation\bin\Debug\Excel Automation.pdb
+D:\Visual Studio\Excel Automation\Excel Automation\obj\Debug\Excel Automation.exe
+D:\Visual Studio\Excel Automation\Excel Automation\obj\Debug\Excel Automation.pdb

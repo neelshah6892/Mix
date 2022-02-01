@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>PowerTCPSockets</id>
+    <version>4.5.7.2</version>
+    <title>PowerTCP Sockets for .NET</title>
+    <authors>Dart Communications</authors>
+    <owners>Dart Communications</owners>
+    <licenseUrl>https://www.dart.com/pages/dart-licensing-options</licenseUrl>
+    <projectUrl>https://www.dart.com/products/powertcp-sockets-for-net#overview?utm_source=nuget_sockets&amp;utm_medium=nuget_package</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/powertcpsockets/4.5.7.2/icon</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>A suite of network communication classes for creating client and server applications. Includes high-performance Server, Tcp, Udp, Dns, and Ping classes, with support for IPv6 and SSL/TLS 1.0+ encryption.
+
+PowerTCP Sockets for .NET is a licensed product. If no development license is present, the nuget package will automatically install a 30-day trial license. If a development license is present, the nuget package can be used to ensure the most current dll is in use.</description>
+    <summary>A suite of network communication classes for creating client and server applications.</summary>
+    <releaseNotes>See https://www.dart.com/products/powertcp-sockets-for-net#release-history for a list of release notes</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>TCP UDP Client Server TLS SSL IPv4 IPv6 Ping DNS MX</tags>
+  </metadata>
+</package>

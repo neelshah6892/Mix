@@ -1,0 +1,10 @@
+D:\Visual Studio\Socket\Socket\bin\Debug\Socket.exe.config
+D:\Visual Studio\Socket\Socket\bin\Debug\Socket.exe
+D:\Visual Studio\Socket\Socket\bin\Debug\Socket.pdb
+D:\Visual Studio\Socket\Socket\obj\Debug\Socket.exe
+D:\Visual Studio\Socket\Socket\obj\Debug\Socket.pdb
+D:\Visual Studio\Socket\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache
+D:\D\Visual Studio\Socket\Socket\obj\Debug\Socket.csprojAssemblyReference.cache
+D:\D\Visual Studio\Socket\Socket\obj\Debug\Socket.csproj.CoreCompileInputs.cache
+D:\D\Visual Studio\Socket\Socket\obj\Debug\Socket.exe
+D:\D\Visual Studio\Socket\Socket\obj\Debug\Socket.pdb

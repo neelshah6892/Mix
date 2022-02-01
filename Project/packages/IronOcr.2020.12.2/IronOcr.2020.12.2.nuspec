@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>IronOcr</id>
+    <version>2020.12.2</version>
+    <title>IronOCR - The C# OCR Library.</title>
+    <authors>https://ironsoftware.com/csharp/ocr/</authors>
+    <owners>https://ironsoftware.com/csharp/ocr/</owners>
+    <licenseUrl>https://ironsoftware.com/csharp/ocr/licensing/</licenseUrl>
+    <projectUrl>https://ironsoftware.com/csharp/ocr/</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/ironocr/2020.12.2/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>IronOCR is an advanced OCR (Optical Character Recognition) library for C# and .NET
+
+It provides Tesseract OCR on Mac, Windows, Linux, Azure and Docker for:
+* .Net Framework 4.0 +
+* .Net Standard 2.0 +
+* .Net Core 2.0 +
+* .Net 5
+* Mono for MacOS and Linux
+* Xamarin for MacOS
+
+IronOCR reads Text, Barcodes &amp; QR from all major image and PDF formats using the latest Tesseract 5 engine. This library adds OCR functionality to Desktop, Console and Web applications in minutes.
+
+IronOCR's Unique Features:
+* Pure .Net OCR API
+* All OCR tasks run locally (no SAAS)
+* 125 languages
+* Barcode &amp; QR Code reading
+* Corrects low quality, noisy and distorted scans
+* Performance tuned above and beyond any other known build of Tesseract OCR.
+* Reads PDFs
+* Reads multi-page TIFFs
+* Can save any OCR Scan to a searchable PDF document or XHTML
+
+Data output options include: Plain Text, Barcode Data and an OCR Result class containing paragraphs, lines, words, and characters.
+
+Language Support:
+125 Languages including Arabic, Chinese, English, Finnish, French, German, Hebrew, Italian, Japanese, Korean, Portuguese, Russian, Spanish...  Custom language packs can also be created.
+
+Licensing &amp; Support available for commercial deployments. Email: developers@ironsoftware.com
+
+For code examples, documentation &amp; more visit http://ironsoftware.com/csharp/ocr/</description>
+    <summary>The OCR Library for C# &amp; VB.Net.  Highly optimized Tesseract 5 OCR in a stand-alone .NET library.
+
+Converts scanned documents, images, and PDFs to plain text.  Also detects barcodes and QR.</summary>
+    <releaseNotes>* Added OcrResult.SaveAsSearchablePdfBytes Method
+* Added OcrResult.SaveAsHocrString Method
+* Resolved OcrData Installation Issues 
+* Improved MVC, WinForms and Azure Function Compatibility</releaseNotes>
+    <copyright>(C) 2016-2020 IronSoftware.com</copyright>
+    <language>en-US</language>
+    <tags>C# OCR Tesseract PDF Image to Text TIFF</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0" />
+      <group targetFramework="Unsupported0.0">
+        <dependency id="System.Drawing.Common" version="4.7.0" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Configuration" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Drawing" targetFramework=".NETFramework4.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
