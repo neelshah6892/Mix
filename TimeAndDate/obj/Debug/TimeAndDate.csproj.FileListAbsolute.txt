@@ -1,0 +1,10 @@
+D:\Self Learning\TimeAndDate\bin\Debug\TimeAndDate.exe.config
+D:\Self Learning\TimeAndDate\bin\Debug\TimeAndDate.exe
+D:\Self Learning\TimeAndDate\bin\Debug\TimeAndDate.pdb
+D:\Self Learning\TimeAndDate\obj\Debug\TimeAndDate.csproj.AssemblyReference.cache
+D:\Self Learning\TimeAndDate\obj\Debug\TimeAndDate.Form1.resources
+D:\Self Learning\TimeAndDate\obj\Debug\TimeAndDate.Properties.Resources.resources
+D:\Self Learning\TimeAndDate\obj\Debug\TimeAndDate.csproj.GenerateResource.cache
+D:\Self Learning\TimeAndDate\obj\Debug\TimeAndDate.csproj.CoreCompileInputs.cache
+D:\Self Learning\TimeAndDate\obj\Debug\TimeAndDate.exe
+D:\Self Learning\TimeAndDate\obj\Debug\TimeAndDate.pdb
